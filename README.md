@@ -3,6 +3,8 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MaelWeb alt=MaelWeb /> </p>
 
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=MaelWeb&show_icons=true&include_all_commits=true)](https://github.com/MaelWeb/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelWeb&layout=compact)](https://github.com/MaelWeb/github-readme-stats) -->
 
-[![Mael's github stats](https://github-readme-stats.vercel.app/api?username=MaelWeb)](https://github.com/MaelWeb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.maelweb.vercel.app/api/top-langs/?username=MaelWeb&hide=objective-c&layout=compact&theme=radical)](https://github.com/MaelWeb/github-readme-stats)
+[![Mael's github stats](https://github-readme-stats.maelweb.vercel.app/api?username=MaelWeb&&hide=contribs,prs&theme=radical)](https://github.com/MaelWeb/github-readme-stats)
+
+[![FE-BK-Mind-Map](https://github-readme-stats.maelweb.vercel.app/api/pin/?username=MaelWeb&repo=FE-BK-Mind-Map&theme=radical)](https://github.com/MaelWeb/FE-BK-Mind-Map)[![JI-Blog](https://github-readme-stats.maelweb.vercel.app/api/pin/?username=MaelWeb&repo=JI-Blog&theme=radical)](https://github.com/MaelWeb/JI-Blog)
