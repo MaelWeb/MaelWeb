@@ -8,7 +8,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## Some of my Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelWeb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Mael's github stats](https://github-readme-stats.vercel.app/api?username=maelweb&count_private=true&show_icons=true)](https://github.com/MaelWeb/github-readme-stats)
 
-[![FE-BK-Mind-Map](https://github-readme-stats.vercel.app/api/pin/?username=MaelWeb&repo=FE-BK-Mind-Map)](https://github.com/MaelWeb/FE-BK-Mind-Map)[![JI-Blog](https://github-readme-stats.vercel.app/api/pin/?username=MaelWeb&repo=JI-Blog)](https://github.com/MaelWeb/JI-Blog)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaelWeb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![FE-BK-Mind-Map](https://github-readme-stats.vercel.app/api/pin/?username=MaelWeb&repo=FE-BK-Mind-Map)](https://github.com/MaelWeb/FE-BK-Mind-Map)
+
+[![JI-Blog](https://github-readme-stats.vercel.app/api/pin/?username=MaelWeb&repo=JI-Blog)](https://github.com/MaelWeb/JI-Blog)
